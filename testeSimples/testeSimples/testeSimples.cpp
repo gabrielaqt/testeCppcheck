@@ -7,8 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-	int a[10];
-	a[10] = 0;
+	
 }
 
 // Executar programa: Ctrl + F5 ou Menu Depurar > Iniciar Sem Depuração
